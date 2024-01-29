@@ -2,12 +2,12 @@
 
 Introduction:
 
-The Premier League is considered one of the most competitive and exciting football leagues in the world, with billions of fans tuning in to watch the matches every year. As a fan of the Premier League, I created a machine learning model to predict the outcomes of matches in the league. The league is known for its competitiveness and unpredictability, making it an exciting league to follow. This analysis and machine learning model should be useful in gaining insights on match predictions in the Premier League.
+The Premier League is considered one of the most competitive and exciting football leagues in the world, with billions of fans tuning in to watch the matches every year. As a fan of the Premier League, I created a machine-learning model to predict the outcomes of matches in the league. The league is known for its competitiveness and unpredictability, making it an exciting league to follow. This analysis and machine learning model should be useful in gaining insights into match predictions in the Premier League.
 
 Data:
 
 As mentioned above, I collect the data from the Kaggle platform. The match statistics are from the 2000/2001 season to the 2018/2019 season. There are in total 6839 data points with no missing data in any fields. After uploading the data file, I pre-processed it, choosing only the features that
-I considered highly impactful (justification below) to ensure the accuracy of the model. The get_dummies function in Pandas was also used to convert the categorical values into numerical ones.
+I considered it highly impactful (justification below) to ensure the accuracy of the model. The get_dummies function in Pandas was also used to convert the categorical values into numerical ones.
 
 Feature justification
 - Host team: It does matter which team is gonna host the match. Hosting gives the club the advantage of not having to travel, a familiar playground, and of course, fan encouragement.
