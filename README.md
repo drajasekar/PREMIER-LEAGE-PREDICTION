@@ -36,13 +36,9 @@ My problem is to predict whether the host team will win or not in a football mat
 Requirements:
 
 Pandas
-
 Numpy
-
 Sklearn
-
 Matplotlib
 
 Usage:
-
 To run the code for this project, clone the repository and run the Jupyter Notebook file.
