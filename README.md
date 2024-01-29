@@ -11,13 +11,13 @@ I considered highly impactful (justification below) to ensure the accuracy of th
 
 Feature justification
 - Host team: It does matter which team is gonna host the match. Hosting gives the club the advantage of not having to travel, a familiar playground, and of course, fan encouragement.
-- 
+  
 - HTP, ATP: HTP (Home Team Point) and APT (Away Team Point) indicate the average point that the team earns in that season. This is a good reflection of the corresponding position between the two teams at the moment.
-- 
+ 
 - HTGD, ATGD: HTGD (Home Team Goal Difference) and ATDG (Away Team Goal Difference) are the average of the goals the team scored and conceded in that season. In football, the team that scores more goals is the winner; therefore, I believe these two features are strong indicators of the team’s winning probability.
-- 
+ 
 - DiffPts: Difference of current season points between two teams (home’s – away’s): The team result can vary significantly among different seasons due to reasons such as changes in line-up. It’s important to take into account how the team are performing in this season to predict their future matches
-- 
+ 
 - DiffFormpPTS (H1 – H5, A1 – A5): Result of the last 5 matches of the team. This will help us know how the team is performing recently. Furthermore, I also visualize the data by using the scatterplot and all of the features show a strong correlation with what we’re trying to predict – the ‘Result’
 
 
